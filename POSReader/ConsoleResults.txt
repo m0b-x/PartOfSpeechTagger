@@ -1,0 +1,54 @@
+Pt adverb:
+ 	 TP:5316 TN:204855 FP:649 FN:756  
+	  Acuratete:0,9933593602298938,Precizie:0,8911986588432523, Recall:0,8754940711462451 Selectivitate:0,9968419106197446
+
+Pt interjectie/prepozitie/conjunctie:
+ 	 TP:4096 TN:206999 FP:344 FN:137  
+	  Acuratete:0,9977265852459636,Precizie:0,9225225225225225, Recall:0,9676352468698323 Selectivitate:0,9983409133657756
+
+Pt articol:
+ 	 TP:3701 TN:207767 FP:16 FN:92  
+	  Acuratete:0,9994895451279918,Precizie:0,9956954533225719, Recall:0,9757447930398102 Selectivitate:0,9999229965877863
+
+Pt substantiv:
+ 	 TP:96772 TN:105282 FP:3493 FN:6029  
+	  Acuratete:0,9549948954512799,Precizie:0,9651623198523912, Recall:0,9413527105767454 Selectivitate:0,967887841875431
+
+Pt pronume:
+ 	 TP:5765 TN:205584 FP:66 FN:161  
+	  Acuratete:0,9989270994819829,Precizie:0,9886811867604185, Recall:0,9728315896051299 Selectivitate:0,9996790663749088
+
+Pt verb:
+ 	 TP:29060 TN:176228 FP:3646 FN:2642  
+	  Acuratete:0,9702801830075245,Precizie:0,8885219837338715, Recall:0,9166614093748029 Selectivitate:0,9797302556233808
+
+Pt adjectiv:
+ 	 TP:22098 TN:184127 FP:3457 FN:1894  
+	  Acuratete:0,9747088516655953,Precizie:0,8647231461553512, Recall:0,9210570190063354 Selectivitate:0,9815709228932105
+
+Pt punctuatie:
+ 	 TP:33057 TN:178519 FP:0 FN:0  
+	  Acuratete:1,Precizie:1, Recall:1 Selectivitate:1
+
+
+Acuratete:0,986185815026279
+Precizie:0,9395631588987974
+Recall:0,9463471049523626
+Selectivitate:0,9904967384175297
+
+Aproximari:
+Acuratete:0,99
+Precizie:0,94
+Recall:0,95
+Selectivitate:0,99
+
+Fisiere Totale:500, din care 300 de antrenare si 200 de testare 
+
+60% pt antrenament, 40% pt testare
+
+
+Cuvinte Citite la antrenare:359451 (fara StopWords), din care 40800 cuvinte unice
+
+Cuvinte citite la evaluare:211576  (fara StopWords)
+Evaluate Corect:199865
+Evaluate Gresit:11711

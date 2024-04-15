@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fcrq4Phhzdj92cz/v82tjEGCys202NeaxPljcTxtMgKt+8JPTNRN5U98/peiVIubaqV0mxrn1P4bMQrh3aHF7g==",
+  "success": true,
+  "projectFilePath": "/Users/alexandruzamfir/Desktop/Proiecte/Programare Mobila/Lab 1/PartOfSpeechTagger/POSReader/POSReader.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexandruzamfir/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/alexandruzamfir/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/alexandruzamfir/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.16/microsoft.netcore.app.host.osx-arm64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
